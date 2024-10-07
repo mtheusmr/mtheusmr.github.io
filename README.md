@@ -3,7 +3,7 @@
 Olá, me chamo Matheus, 29 anos e sou estudante de Analise e desenvolvimento de sistemas pela UNINTER.</p>&nbsp;
 
 <p align="center">
-Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conforme o tempo, dedicação e estudos passei a ser programador de torno CNC, que foi onde conheci mais sobre codigos e logica, e que me deu uma base para entender mais afundo esse ramo de tecnologia que foi no qual fiquei apaixonado e decidi ir para essa area.
+Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conforme o tempo, dedicação e estudos passei a ser programador de torno CNC, que foi onde conheci mais sobre codigos e logica, e que me deu uma base para entender mais afundo esse ramo de tecnologia que foi no qual fiquei apaixonado e resolvi me aventurar nessa area.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
