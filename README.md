@@ -1,10 +1,9 @@
 # mtheusmr.github.io
 <p align="center">
-Um breve resumo sobre você
-</p>&nbsp;
+Olá, me chamo Matheus, 29 anos e sou estudante de Analise e desenvolvimento de sistemas pela UNINTER.</p>&nbsp;
 
 <p align="center">
-Colocar uma breve descrição sobre você, como tecnologias, etc...
+Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conforme o tempo, dedicação e estudos passei a ser programador de torno CNC, que foi onde conheci mais sobre codigos e logica, e que me deu uma base para entender mais afundo esse ramo de tecnologia que foi no qual fiquei apaixonado e decidi ir pora essa area.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
@@ -31,17 +30,10 @@ Colocar uma breve descrição sobre você, como tecnologias, etc...
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp; 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
-#### Databases:
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
