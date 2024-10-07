@@ -3,7 +3,7 @@
 Olá, me chamo Matheus, 29 anos e sou estudante de Analise e desenvolvimento de sistemas pela UNINTER.</p>&nbsp;
 
 <p align="center">
-Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conforme o tempo, dedicação e estudos passei a ser programador de torno CNC, que foi onde conheci mais sobre codigos e logica, e que me deu uma base para entender mais afundo esse ramo de tecnologia que foi no qual fiquei apaixonado e decidi ir pora essa area.
+Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conforme o tempo, dedicação e estudos passei a ser programador de torno CNC, que foi onde conheci mais sobre codigos e logica, e que me deu uma base para entender mais afundo esse ramo de tecnologia que foi no qual fiquei apaixonado e decidi ir para essa area.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
@@ -14,14 +14,9 @@ Iniciei minha trajetoria como ajudante de produção, no setor de usinagem; conf
 
 #### Main Stack:
 
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
 <img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
